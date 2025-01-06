@@ -1,0 +1,8 @@
+.idea/*
+target
+app/node_modules
+*.DS_Store
+*tgz
+### VS Code ###
+.vscode/
+
