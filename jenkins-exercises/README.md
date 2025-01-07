@@ -1,4 +1,4 @@
-#### This project is for the DevOps bootcamp exercise for
+#### This project is for the DevOps exercise for
 
 #### "Build Automation with Jenkins"
 
